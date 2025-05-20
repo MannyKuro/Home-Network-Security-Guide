@@ -2,7 +2,6 @@
 
 This guide walks through how to secure your home Wi-Fi network — an essential skill for anyone working in IT or studying for certifications like CompTIA Security+.
 
-📄 [View PDF](./Securing_Your_Home_WiFi.pdf)  
 📝 [Download Word Version](./Securing_Your_Home_WiFi.docx)
 
 ## Topics Covered:
